@@ -15,3 +15,4 @@ MongoDB Collection Methods (https://docs.mongodb.com/manual/reference/method/js-
 - db.Collection.find().pretty()
 - db.Collection.find().sort().pretty()
 - db.Collection.find().Count()
+- Mit show dbs bzw. show collections kann man die angelegten Datenbanken bzw. Collections sehen
