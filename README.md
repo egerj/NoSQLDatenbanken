@@ -22,3 +22,5 @@ Hinweis: Bei Git Bash muss "winpty" vor den "docker exec" Befehl gesetzt werden.
 - db.`<collectionName>`.find().count()
 - show dbs (zeigt die angelegten Datenbanken an)
 - show collections (zeigt die angelegten Collections in einer Datenbank an)
+
+### Benutzte GUI: NoSQLBooster
