@@ -1,10 +1,12 @@
 [
 {
 	"course" : "Programmierung I",
-	"dozent" : "Berg-Neels"
+	"dozent" : "Berg-Neels",
+	"room" : "069C"
 },
 {
 	"course" : "Software Engineering I",
-	"dozent" : "Heller"
+	"dozent" : "Heller",
+	"room" : "069C"
 }
 ]
