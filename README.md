@@ -16,6 +16,6 @@ Hinweis: Bei Git Bash muss "winpty" vor den "docker exec" Befehl gesetzt werden.
 - db.`<collectionName>`.update()
 - db.`<collectionName>`.find().pretty()
 - db.`<collectionName>`.find().sort().pretty()
-- db.`<collectionName>`.find().Count()
+- db.`<collectionName>`.find().count()
 - show dbs (zeigt die angelegten Datenbanken an)
 - show collections (zeigt die angelegten Collections in einer Datenbank an)
