@@ -14,6 +14,9 @@ Hinweis: Bei Git Bash muss "winpty" vor den "docker exec" Befehl gesetzt werden.
 - db.`<collectionName>`.insert()
 - db.`<collectionName>`.remove()
 - db.`<collectionName>`.update()
+  - .update({...}, {"age" : 5}) überschreibt den kompletten Datensatz
+  - .update({...}, {$set:{"age" : 5}) überschreibt das Feld "age" oder legt dieses an, falls es noch nicht existiert
+  - .update({...}, {$inc:{"age" : 5}) erhöht das Feld "age" um 5
 - db.`<collectionName>`.find().pretty()
 - db.`<collectionName>`.find().sort().pretty()
 - db.`<collectionName>`.find().count()
