@@ -24,3 +24,5 @@ Hinweis: Bei Git Bash muss "winpty" vor den "docker exec" Befehl gesetzt werden.
 - show collections (zeigt die angelegten Collections in einer Datenbank an)
 
 ### Benutzte GUI: NoSQLBooster
+- leichtes Nutzen von MongoDB Collection Methods (z.B. Datensätze verwalten)
+- Übersichtliche Darstellung der Struktur und der einzelnen Datensätze
