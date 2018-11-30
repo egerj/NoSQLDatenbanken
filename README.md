@@ -6,6 +6,7 @@ MongoDB mit Docker einrichten (über Konsole):
   2. docker run --name mongo -d mongo mongod
   3. docker exec -it mongo bash
   4. mongo
+
 Hinweis: Bei Git Bash muss "winpty" vor den "docker exec" Befehl gesetzt werden.
 
 MongoDB Collection Methods (https://docs.mongodb.com/manual/reference/method/js-collection/)
