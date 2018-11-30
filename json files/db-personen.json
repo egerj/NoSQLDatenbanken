@@ -1,0 +1,47 @@
+﻿[
+{
+	"firstname" : "Timo",
+	"lastname" : "Scheuermann",
+	"age" : 18,
+	"company" : "Sparkassen Versicherung Informatik Gmbh",
+	"emails" : [
+		{
+			"uni" : "s181618@student.dhbw-mannheim.de",
+			"private" : "timo.scheuermann@gmx.de"
+		}
+	]
+},
+{
+	"firstname" : "Eric",
+	"lastname" : "Petry",
+	"isClassRepresentative" : true
+},
+{
+	"firstname" : "Matthias Uwe",
+	"lastname" : "Berg-Neels",
+	"company" : "SAP SE",
+	"isProfessor" : true
+},
+{
+	"firstname" : "Nicolas",
+	"lastname" : "Fürhaupter",
+	"age" : 20
+},
+{
+	"firstname" : "Georg",
+	"lastname" : "Giesbrecht",
+	"age" : 24,
+	"company" : "Deutsche Bahn AG"
+},
+{
+	"firstname" : "Andrei",
+	"lastname" : "Berbescu",
+	"age" : 19,
+	"company" : "Sparkassen Versicherung Informatik Gmbh"
+},
+{
+	"firstname" : "Aaron",
+	"lastname" : "Schweig",
+	"company" : "Hays AG"
+}
+]
